@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Banner](images/KantimaBanner.png)
 <img src="images/KantimaBanner.png" width="500">
 
 # Kantima Pinthong
