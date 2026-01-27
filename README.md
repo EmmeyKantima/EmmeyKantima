@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Banner](images/KantimaBanner.png)
+<img src="images/KantimaBanner.png" width="500">
 
 # Kantima Pinthong
 
@@ -24,7 +24,6 @@ I am a student from Thailand. Graduated from Tourism Management.
 
 
 I currently further pursue a new experince in a Web Development program at Humber Collage, Toronto, Canada.
-
 
 
 - [github](https://github.com/EmmeyKantima)
