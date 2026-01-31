@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 I am a student from Thailand. Graduated from Tourism Management.
 
+I currently further pursue a new experience in a Web Development program at Humber College, Toronto, Canada.
 
-I currently further pursue a new experince in a Web Development program at Humber Collage, Toronto, Canada.
+<img src="images/github.png" width="15"> [Github](https://github.com/EmmeyKantima)
 
+<img src="images/instagram.png" width="15"> [Instagram](https://www.instagram.com/emmeygoround/)
 
-- [github](https://github.com/EmmeyKantima)
-- [IG](https://www.instagram.com/emmeygoround/)
-- [Linkedin](https://www.linkedin.com/in/kantima-pinthong-45765314b/)
+<img src="images/linkedin.png" width="15"> [Linkedin](https://www.linkedin.com/in/kantima-pinthong-45765314b/)
 
